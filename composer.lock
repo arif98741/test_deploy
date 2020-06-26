@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8b1038cee8204cabb8c440491598a00d",
+    "packages": [
+        {
+            "name": "arif98741/codeigniter_crud",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arif98741/codeigniter_crud.git",
+                "reference": "6fe1bbdc286df8c871b557ab37bb1a6b443fcf53"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arif98741/codeigniter_crud/zipball/6fe1bbdc286df8c871b557ab37bb1a6b443fcf53",
+                "reference": "6fe1bbdc286df8c871b557ab37bb1a6b443fcf53",
+                "shasum": ""
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ariful",
+                    "email": "arifsofg@gmail.com"
+                }
+            ],
+            "description": "This is a project repo",
+            "time": "2019-07-14T11:19:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
