@@ -13,4 +13,4 @@ jobs:
         with:
           ftp-server: ftp://phpdark.com/public_html/test_deploy
           ftp-username: phpdark
-          ftp-password: ${{ secrets.phpdark_pass }
+          ftp-password: ${{ secrets.phpdark_pass }}
